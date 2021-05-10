@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_game_fragment">Game Fragment</string>
+    <string name="hello_game_over_fragment">Game Over</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="endgame">End Game</string>
+    <string name="startgame">Start Game</string>
+    <string name="restart">Restart Game</string>
+</resources>
